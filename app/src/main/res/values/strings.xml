@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myadowner</string>
+    <string name="title_activity_detail">detailActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
